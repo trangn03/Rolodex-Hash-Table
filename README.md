@@ -1,18 +1,15 @@
-# Project 4 Submission
+# Rolodex Hash Table
 
-My submission for CPSC 131, Section 05, Project 4
+* Writing hash functions, hash table
+* Implement a digital rolodex
 
 # My Information
 
-* Name: Trang Ngo
-* CWID: 886407378
-* Email: <trangn0102@csu.fullerton.edu>
+* Trang Ngo <trangn0102@csu.fullerton.edu>
 
 # Instruction
 
-My code is reference from slide #37: Hash Table Allen Holliday.
-
-Many of my code comments are taking directly from INSTRUCTIONS.md and MyHashTable.cpp.
+Code is reference from slide #37: Hash Table Allen Holliday.
 
 
 
